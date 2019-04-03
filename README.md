@@ -4,7 +4,7 @@
 Using the "SVM-KNN" technique to recognize images of handwritten digits(0-9).
 
 ### Source Code
-- `/data` - folder containing the dataset
+- `/data` - folder containing the dataset [source](http://yann.lecun.com/exdb/mnist/index.html)
 - `digitrecognition.py` - Python file to perform data exploration
 - `model.py` - implements the learning model
 - `report.pdf` - detailed report of the problem and solution
