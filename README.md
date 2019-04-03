@@ -18,8 +18,8 @@ This project requires Python 3 and the following Python libraries installed:
 
 If you haven't installed Python yet, it is preferrable to download and install Anaconda instead.
 
-####Members:
-####TECMPN1
+#### Members:
+#### TECMPN1
 - Anujay Ghosh
 - Vidit Gholam
 - Mahendra Patel
