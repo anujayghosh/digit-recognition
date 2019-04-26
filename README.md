@@ -22,7 +22,6 @@ If you haven't installed Python yet, it is preferrable to download and install A
 #### TECMPN1
 - Anujay Ghosh
 - Vidit Gholam
-- Mahendra Patel
 - Gauri Shenoy
 
 
