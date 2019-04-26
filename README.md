@@ -1,4 +1,4 @@
-# Digit Recogniton Project
+# Handwritten Digit Recogniton Project
 ### Machine Learning | Python | SVM-KNN
 
 Using the "SVM-KNN" technique to recognize images of handwritten digits(0-9).
@@ -22,7 +22,6 @@ If you haven't installed Python yet, it is preferrable to download and install A
 #### TECMPN1
 - Anujay Ghosh
 - Vidit Gholam
-- Mahendra Patel
 - Gauri Shenoy
 
 
