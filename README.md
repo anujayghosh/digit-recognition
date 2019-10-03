@@ -23,5 +23,5 @@ If you haven't installed Python yet, it is preferrable to download and install A
 - Anujay Ghosh
 - Vidit Gholam
 - Gauri Shenoy
-
+- Shefali Mahadik
 
