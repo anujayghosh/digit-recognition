@@ -3,7 +3,8 @@
 
 ### ["Steady Model for Classification of Handwritten Digit Recognition"](https://link.springer.com/chapter/10.1007/978-981-15-2305-2_32)
 
-Anujay Ghosh, Aruna Pavate, Vidit Gholam, Gauri Shenoy, Shefali Mahadik.
+Anujay Ghosh et. al. 
+
 Atharva College of Engineering,
 Mumbai University, Mumbai, India.
 #### Accepted at IEPCCT-Springer 2019, Bhubhaneshwar, India Conference.
@@ -30,4 +31,5 @@ If you haven't installed Python yet, it is preferrable to download and install A
 - Vidit Gholam
 - Gauri Shenoy
 - Shefali Mahadik
+- Aruna Pavate
 
